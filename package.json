@@ -1,5 +1,5 @@
 {
-  "name": "a11y-focustrap",
+  "name": "a11y-focus-trap",
   "version": "1.0.0",
   "description": "A simple module to trap the tab navigation inside a container very useful for modal and dialog.",
   "main": "index.js",
