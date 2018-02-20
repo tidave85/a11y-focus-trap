@@ -5,7 +5,7 @@ A simple javascript module to trap focus in an HTML element and loop de navigati
 ## Configuration
 Install using NPM
 ```javascript
-npm install a11y-focustrap
+npm install a11y-focus-trap
 ```
 You can also clone the github repo and insert it directly in your project via the script tag.
 
@@ -13,7 +13,7 @@ You can also clone the github repo and insert it directly in your project via th
 
 Import the module in the desired file
 ```javascript
-var a11yFocusTrap = require('./a11y-focustrap');
+var a11yFocusTrap = require('./a11y-focus-trap');
 ```
 
 Have and HTML element where you want the focus to be trapped in such as:
