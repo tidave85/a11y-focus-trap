@@ -1,4 +1,4 @@
-const focusableElementsSelector = 'button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"]';
+const focusableElementsSelector = 'button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])';
 const tabKeycode = 9;
 
 var container;
